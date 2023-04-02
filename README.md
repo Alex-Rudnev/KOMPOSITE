@@ -83,7 +83,7 @@ Rudnev_Alexander_VKR_1.ipynb - первая часть кода
 
 Rudnev_Alexander_VKR_2.ipynb - продолжение кода
 
-Rudnev_Alexander_VKR_1.ipynb - завершение кода
+Rudnev_Alexander_VKR_3.ipynb - завершение кода
 
 Rudnev_Alexander_VKR_1.pdf - первая часть кода в pdf
 
