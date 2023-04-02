@@ -91,9 +91,9 @@ Rudnev_Alexander_VKR_2.pdf - вторая часть кода в pdf
 
 Rudnev_Alexander_VKR_3.pdf - третья часть кода в pdf
 
-BKP_EVKR_Rudnev_A_A_prezentazia.pdf - презентация ВКР  в формате pdf для защиты
+VKR_Rudnev_A_A_presenteshion_2023.pdf - презентация ВКР  в формате pdf для защиты
 
-VKR_Rudnev_A_A_prezentazia.pptx - презентация ВКР для защиты в формате pptx
+VKR_Rudnev_A_A_presenteshion_2023.pptx - презентация ВКР для защиты в формате pptx
 
 Пояснительная записка Руднев А.А..docx - описание работы на 38 стр в формате docx
 
